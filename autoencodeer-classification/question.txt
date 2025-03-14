@@ -1,0 +1,5 @@
+Consider a simple autoencoder.
+
+Extend the code to test the representation layer of the autoencoder by creating a function that trains a digit classifier using the hidden layer of the autoencoder as its input.
+
+Fully train the classifier (fully: define a fixed number of epochs for its training) after each epoch in the training of the autoencoder and evaluate its accuracy. Plot the results.
